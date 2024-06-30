@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "job_title": "Software Engineer",
+    "company_name": "Tech Solutions Inc.",
+    "designation": "Backend Developer",
+    "remote_or_full_time": "Full Time",
+    "location": "San Francisco, CA",
+    "salary": "$100,000 - $120,000",
+    "image_url": "https://example.com/company_logo1.png",
+    "category": "Information Technology"
+  },
+  {
+    "id": 2,
+    "job_title": "Marketing Manager",
+    "company_name": "Globex Corporation",
+    "designation": "Digital Marketing Specialist",
+    "remote_or_full_time": "Full Time",
+    "location": "New York, NY",
+    "salary": "$90,000 - $110,000",
+    "image_url": "https://example.com/company_logo2.png",
+    "category": "Marketing"
+  },
+  {
+    "id": 3,
+    "job_title": "Data Scientist",
+    "company_name": "Data Insights Co.",
+    "designation": "Machine Learning Engineer",
+    "remote_or_full_time": "Remote",
+    "location": "Seattle, WA",
+    "salary": "$120,000 - $140,000",
+    "image_url": "https://example.com/company_logo3.png",
+    "category": "Information Technology"
+  },
+  {
+    "id": 4,
+    "job_title": "Financial Analyst",
+    "company_name": "Finance Experts Ltd.",
+    "designation": "Investment Analyst",
+    "remote_or_full_time": "Full Time",
+    "location": "Chicago, IL",
+    "salary": "$80,000 - $100,000",
+    "image_url": "https://example.com/company_logo4.png",
+    "category": "Finance"
+  },
+  {
+    "id": 5,
+    "job_title": "UX/UI Designer",
+    "company_name": "Creative Designs Inc.",
+    "designation": "Senior Designer",
+    "remote_or_full_time": "Remote",
+    "location": "Los Angeles, CA",
+    "salary": "$95,000 - $115,000",
+    "image_url": "https://example.com/company_logo5.png",
+    "category": "Design"
+  },
+  {
+    "id": 6,
+    "job_title": "Sales Manager",
+    "company_name": "Sales Growth Solutions",
+    "designation": "Regional Sales Director",
+    "remote_or_full_time": "Full Time",
+    "location": "Miami, FL",
+    "salary": "$110,000 - $130,000",
+    "image_url": "https://example.com/company_logo6.png",
+    "category": "Sales"
+  },
+  {
+    "id": 7,
+    "job_title": "HR Specialist",
+    "company_name": "Talent Solutions Group",
+    "designation": "Human Resources Manager",
+    "remote_or_full_time": "Full Time",
+    "location": "Dallas, TX",
+    "salary": "$85,000 - $105,000",
+    "image_url": "https://example.com/company_logo7.png",
+    "category": "Human Resources"
+  },
+  {
+    "id": 8,
+    "job_title": "Operations Manager",
+    "company_name": "Logistics Pro",
+    "designation": "Supply Chain Director",
+    "remote_or_full_time": "Full Time",
+    "location": "Atlanta, GA",
+    "salary": "$100,000 - $120,000",
+    "image_url": "https://example.com/company_logo8.png",
+    "category": "Operations"
+  },
+  {
+    "id": 9,
+    "job_title": "Content Writer",
+    "company_name": "Digital Content Creators",
+    "designation": "SEO Content Specialist",
+    "remote_or_full_time": "Remote",
+    "location": "Boston, MA",
+    "salary": "$70,000 - $90,000",
+    "image_url": "https://example.com/company_logo9.png",
+    "category": "Writing"
+  },
+  {
+    "id": 10,
+    "job_title": "Product Manager",
+    "company_name": "Tech Innovators Ltd.",
+    "designation": "Product Owner",
+    "remote_or_full_time": "Full Time",
+    "location": "Austin, TX",
+    "salary": "$120,000 - $140,000",
+    "image_url": "https://example.com/company_logo10.png",
+    "category": "Product Management"
+  },
+  {
+    "id": 11,
+    "job_title": "Customer Support Specialist",
+    "company_name": "Support Masters Inc.",
+    "designation": "Technical Support Analyst",
+    "remote_or_full_time": "Remote",
+    "location": "Denver, CO",
+    "salary": "$60,000 - $80,000",
+    "image_url": "https://example.com/company_logo11.png",
+    "category": "Customer Service"
+  },
+  {
+    "id": 12,
+    "job_title": "Legal Counsel",
+    "company_name": "Law Partners LLP",
+    "designation": "Corporate Attorney",
+    "remote_or_full_time": "Full Time",
+    "location": "Washington, D.C.",
+    "salary": "$130,000 - $150,000",
+    "image_url": "https://example.com/company_logo12.png",
+    "category": "Legal"
+  },
+  {
+    "id": 13,
+    "job_title": "Research Scientist",
+    "company_name": "Science Labs Inc.",
+    "designation": "Biomedical Researcher",
+    "remote_or_full_time": "Remote",
+    "location": "San Diego, CA",
+    "salary": "$110,000 - $130,000",
+    "image_url": "https://example.com/company_logo13.png",
+    "category": "Science"
+  },
+  {
+    "id": 14,
+    "job_title": "Event Coordinator",
+    "company_name": "Event Planners Group",
+    "designation": "Event Manager",
+    "remote_or_full_time": "Full Time",
+    "location": "Orlando, FL",
+    "salary": "$75,000 - $95,000",
+    "image_url": "https://example.com/company_logo14.png",
+    "category": "Event Planning"
+  },
+  {
+    "id": 15,
+    "job_title": "Project Engineer",
+    "company_name": "Engineering Solutions Inc.",
+    "designation": "Civil Engineer",
+    "remote_or_full_time": "Full Time",
+    "location": "Houston, TX",
+    "salary": "$95,000 - $115,000",
+    "image_url": "https://example.com/company_logo15.png",
+    "category": "Engineering"
+  },
+  {
+    "id": 16,
+    "job_title": "Art Director",
+    "company_name": "Creative Agency Group",
+    "designation": "Creative Director",
+    "remote_or_full_time": "Full Time",
+    "location": "Portland, OR",
+    "salary": "$100,000 - $120,000",
+    "image_url": "https://example.com/company_logo16.png",
+    "category": "Design"
+  },
+  {
+    "id": 17,
+    "job_title": "Quality Assurance Analyst",
+    "company_name": "QA Testing Experts",
+    "designation": "QA Tester",
+    "remote_or_full_time": "Remote",
+    "location": "Phoenix, AZ",
+    "salary": "$80,000 - $100,000",
+    "image_url": "https://example.com/company_logo17.png",
+    "category": "Information Technology"
+  },
+  {
+    "id": 18,
+    "job_title": "Public Relations Manager",
+    "company_name": "PR Connections Inc.",
+    "designation": "PR Specialist",
+    "remote_or_full_time": "Full Time",
+    "location": "Philadelphia, PA",
+    "salary": "$90,000 - $110,000",
+    "image_url": "https://example.com/company_logo18.png",
+    "category": "Public Relations"
+  },
+  {
+    "id": 19,
+    "job_title": "Executive Assistant",
+    "company_name": "Executive Solutions Ltd.",
+    "designation": "Senior Executive Assistant",
+    "remote_or_full_time": "Full Time",
+    "location": "Charlotte, NC",
+    "salary": "$70,000 - $90,000",
+    "image_url": "https://example.com/company_logo19.png",
+    "category": "Administrative"
+  },
+  {
+    "id": 20,
+    "job_title": "Graphic Designer",
+    "company_name": "Visual Arts Studio",
+    "designation": "Digital Illustrator",
+    "remote_or_full_time": "Remote",
+    "location": "Salt Lake City, UT",
+    "salary": "$65,000 - $85,000",
+    "image_url": "https://example.com/company_logo20.png",
+    "category": "Design"
+  },
+  {
+    "id": 21,
+    "job_title": "Graphic Designer",
+    "company_name": "Visual Arts Studio",
+    "designation": "Digital Illustrator",
+    "remote_or_full_time": "Remote",
+    "location": "Salt Lake City, UT",
+    "salary": "$65,000 - $85,000",
+    "image_url": "https://example.com/company_logo20.png",
+    "category": "Rafsan"
+  }
+]
